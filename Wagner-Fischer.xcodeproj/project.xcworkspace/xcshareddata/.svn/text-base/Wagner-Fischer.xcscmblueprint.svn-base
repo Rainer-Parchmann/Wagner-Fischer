@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9bda146a-b220-0410-86c3-e8af5eb65374++6998",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9bda146a-b220-0410-86c3-e8af5eb65374++6998" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9bda146a-b220-0410-86c3-e8af5eb65374++6998" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "74636F9F-0985-46E0-8F7B-141412C8F278",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9bda146a-b220-0410-86c3-e8af5eb65374++6998" : "Swift-Projekte\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Wagner-Fischer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Wagner-Fischer\/Wagner-Fischer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/fleetwoodmac.dbs.uni-hannover.de",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9bda146a-b220-0410-86c3-e8af5eb65374++6998"
+    }
+  ]
+}
