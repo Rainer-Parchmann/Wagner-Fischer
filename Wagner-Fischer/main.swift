@@ -17,6 +17,9 @@ let x = "abcabba"
 let y = "cbabac"
 let nullChar: Character = "-"
 
+
+let blabla = "nur zum Testen!"
+
 // (a,b) ist die Ausrichtung
 
 var ausrichtung = (xs: "",ys: "")
